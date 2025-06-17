@@ -3,5 +3,6 @@ newenv/
 __pycache__/
 *.pyc
 .DS_Store
-cnn_model.h5
-cnn2_model.keras
+saved/
+cnn2_model@2.keras
+cnn_model@1.h5
